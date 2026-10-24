@@ -7,10 +7,10 @@ Given the strict 40-hour timeline, we strategically focused our efforts on deliv
 
 ## Repository Structure
 
-*   **/PS2_SolarData**
+*   **PS2_SolarData**
     *   Contains our Python analysis script (`PS2_analysis.py`), the generated data visualizations, and our final PDF report.
     *   *Note on the ML Bonus:* We implemented a CatBoost Regressor to handle the non-linear environmental tabular data. It effectively captured the heavy influence of the 'Hour of Day' and 'Temperature' features, pushing our R² score to 0.89 with an RMSE of 103.89.
-*   **/PS4_Ideathon**
+*   **PS4_Ideathon**
     *   Contains our 6-slide Pitch Deck (`.pdf`) for "Project Aegis" (our Asteroid Mining business model).
     *   We focused the engineering feasibility on near-Earth optical mining and swarm architecture, planning to sell refined propellant strictly in Low Earth Orbit to bypass the Earth gravity well bottleneck entirely.
 
